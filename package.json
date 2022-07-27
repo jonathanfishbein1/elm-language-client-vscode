@@ -32,9 +32,7 @@
   "bin": {
     "elm-ls": "server/out/index.js"
   },
-  "extensionDependencies": [
-    "hbenl.vscode-test-explorer"
-  ],
+  "extensionDependencies": [],
   "contributes": {
     "languages": [
       {
